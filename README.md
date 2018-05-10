@@ -1,2 +1,1 @@
-# deeplearning
-코드 만든거
+# DEEP LEARNING CODES
